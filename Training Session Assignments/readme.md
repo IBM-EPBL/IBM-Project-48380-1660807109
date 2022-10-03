@@ -1,1 +1,0 @@
-Training session assignments 
