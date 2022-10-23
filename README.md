@@ -1,6 +1,6 @@
 # IBM-Project-48380-1660807109
 
-Topic : Predicting the energy output of wind farmbased
+Topic : Predicting the energy output of wind farm based
 on weather conditions.
 
 Technology : Machine Learning
